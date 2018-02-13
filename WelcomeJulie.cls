@@ -21,4 +21,11 @@ public with sharing class Welcome {
 		/*Your assignment is to write two comments below this one.  They can say whatever you like.  
 		Make one as a single line comment using the // notation.  Make the other one a multi line comment using the /* notation.
 		When you're done, save this file so that it is compiled and stored in Salesforce.  */
+		
+	//I love comments they are the best
+
+	/* Comments help newbies like
+	me understand was the code does
+	so i do not have to have a developer explain
+	it to me and look like a dumbass*/
         
